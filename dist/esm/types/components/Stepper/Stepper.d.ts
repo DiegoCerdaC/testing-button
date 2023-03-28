@@ -1,4 +1,3 @@
 /// <reference types="react" />
 declare const Stepper: () => JSX.Element;
-
-export { Stepper };
+export default Stepper;
