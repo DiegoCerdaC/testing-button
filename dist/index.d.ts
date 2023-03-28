@@ -1,4 +1,4 @@
 /// <reference types="react" />
-declare const Stepper: () => JSX.Element;
+declare function Register(): JSX.Element;
 
-export { Stepper };
+export { Register };
